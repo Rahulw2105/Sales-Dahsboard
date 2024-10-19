@@ -1,0 +1,17 @@
+{
+  "name": "sales-backend",
+  "version": "1.0.0",
+  "description": "backend for sales application",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul wankhede",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.2"
+  }
+}
